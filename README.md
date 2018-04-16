@@ -1,3 +1,1 @@
-"# CNN-Image-Classifier" 
-# Shard-Encryption-
-"# Shard-Encryption-{" 
+"# CNN-Image-Classifier"
